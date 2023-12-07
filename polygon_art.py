@@ -51,4 +51,4 @@ draw_polygon(num_sides, size, orientation, location, color, border_size)
 # hold the window; close it by clicking the window close 'x' mark
 turtle.done()
 
-user_input = int(input('Which art do you want to generate? Enter a number between 1 to 8,inclusive: '))
+
